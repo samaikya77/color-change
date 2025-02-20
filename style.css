@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:white;
+}
+
+button {
+    padding: .55rem 1rem ;
+    font-size: 2rem;
+    font-family: monospace, sans-serif;
+    cursor: pointer;
+    color: white;
+    background-color: #5775ee;
+    border: 2px solid #5775ee;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+button:hover {
+    color: white;
+    background-color: #4164f1;
+
+
+}
